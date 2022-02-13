@@ -3,8 +3,6 @@
 Defining the Question
 The research problem is to study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months and  create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables. 
 
-a) Specifying the Question Mchezo pesa is a football analyst company in East Africa. Mchezo-Pesa would like to predict the result of a game based whether the teams playing are in their home country or not and whether the game is friendly or not.
-
 b) Defining the Metric for Success This project will be successful when: We come up with a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables
 
 2)The model achieves atleast 80% accuracy
